@@ -2,10 +2,6 @@
 title: "Michigan Fire Assesment"
 ---
 
-This is a Quarto website.
+## ChatGPT placeholder about fire
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
-
-```{r}
-1 + 1
-```
+Wildfires in Michigan play a crucial role in maintaining the health and diversity of its ecosystems. While they can be intense, these natural events help rejuvenate forests, clear out dead vegetation, and promote the growth of certain plant species. In the Upper Peninsula and northern Lower Peninsula, where forests are abundant, fires contribute to the regeneration of vital habitats for wildlife. Effective fire management practices aim to balance the beneficial aspects of fire with the need to protect communities and property, ensuring that Michigan’s landscapes continue to thrive and evolve.

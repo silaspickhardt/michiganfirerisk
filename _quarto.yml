@@ -8,6 +8,8 @@ website:
     left:
       - href: index.qmd
         text: Home
+      - href: CvsH.qmd
+        text: Current and Historical ecosystems
       - about.qmd
 
 format:
